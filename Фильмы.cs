@@ -16,6 +16,16 @@ namespace Films
             String name = Console.ReadLine();
 
             Console.WriteLine("Здраствуйте " + name );
+            String name = Console.ReadLine();
+
+            Console.WriteLine("Здраствуйте " + name );
+            String name = Console.ReadLine();
+
+            Console.WriteLine("Здраствуйте " + name );
+            String name = Console.ReadLine();
+
+            Console.WriteLine("Здраствуйте " + name );
+
 
             Console.WriteLine("Фильм какого жанра вы хотели бы посмотреть: комедия, драма, фантастика, эротика");
 
